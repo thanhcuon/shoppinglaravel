@@ -1,0 +1,52 @@
+{
+  "RECORDS": [
+    {
+      "id": 1,
+      "image_path": "/storage/product/1/EouZQLDGEl41ETYNLnq5.webp",
+      "product_id": 4,
+      "created_at": "22/1/2024 09:58:53",
+      "updated_at": "22/1/2024 09:58:53",
+      "image_name": "2c3055b6ad4f31b31398eba10251a1d7.jpg.webp"
+    },
+    {
+      "id": 2,
+      "image_path": "/storage/product/1/QJQxVNtVz7LQKBXZVAsQ.webp",
+      "product_id": 4,
+      "created_at": "22/1/2024 09:58:53",
+      "updated_at": "22/1/2024 09:58:53",
+      "image_name": "5d71adfcb64c069fc5f1e0f9cef52914.png.webp"
+    },
+    {
+      "id": 3,
+      "image_path": "/storage/product/1/75zkC3PBG8koOgqfqTAN.webp",
+      "product_id": 4,
+      "created_at": "22/1/2024 09:58:53",
+      "updated_at": "22/1/2024 09:58:53",
+      "image_name": "6d441c9be54bb66c1adf78b1811a62d2.jpg.webp"
+    },
+    {
+      "id": 4,
+      "image_path": "/storage/product/1/pe5r8aqkjGCmjGFQZtWg.webp",
+      "product_id": 4,
+      "created_at": "22/1/2024 09:58:53",
+      "updated_at": "22/1/2024 09:58:53",
+      "image_name": "07e80ed3fc62733e1273031bd65096f9.jpg.webp"
+    },
+    {
+      "id": 5,
+      "image_path": "/storage/product/1/7ZS6o0Xi0I0g6meMDczf.webp",
+      "product_id": 4,
+      "created_at": "22/1/2024 09:58:53",
+      "updated_at": "22/1/2024 09:58:53",
+      "image_name": "c8c15ed5e26a245f825d6a0e12ea444e.jpg.webp"
+    },
+    {
+      "id": 6,
+      "image_path": "/storage/product/1/ZoC3ocWj5N6SWWt2EYBo.webp",
+      "product_id": 4,
+      "created_at": "22/1/2024 09:58:53",
+      "updated_at": "22/1/2024 09:58:53",
+      "image_name": "dab4e5068374e32d38e801b18f7b1165.jpg.webp"
+    }
+  ]
+}
